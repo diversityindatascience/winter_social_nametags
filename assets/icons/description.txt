@@ -1,1 +1,43 @@
+Use this folder to upload icons for each hobby. Try to match the file name to the activity name in the list below; if the name contains a space, use an underscore, and if the name contains a slash, just use the first part of the description. 
 
+i.e. file name of 'reading.svg' or 'paddle_boarding.svg'
+
+Reading
+Movies
+Theatre
+Concerts
+Museums
+Dance
+Soccer
+Football
+Baseball
+Basketball
+Tennis
+Swimming
+Paddle boarding / Kayaking
+Biking
+Hiking 
+Camping
+Drawing
+Climbing
+Painting
+Crochet / Knitting
+Sewing
+Cooking
+Baking
+Gardening
+Yoga
+Frisbee
+Board games
+Skiing / Snowboarding
+Pets
+Travel
+Video games
+Running
+Sailing
+Badminton
+Bowling
+Podcasts
+Musical instruments
+Writing
+Pickleball
