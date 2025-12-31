@@ -6,7 +6,7 @@ Data Input: CSV with First Name, Last Name, Job Title, Company, and a list of 5 
 
 
 Useful functionality: 
-* Ideally, we want to define a box where the name should be centered, and the code can select the largest font size that allows the name to fit within that box.
+* Ideally, we want to define a box where the name should be centered; set a font size, but adjust if the name doesn't fit; break into two lines if needed
 * Same process for Job Title and Company (combined in one line as "Title @ Company") 
 * Each hobby should be represented by an icon, which is stored in assets/icons/
 * First, create an image file for each individual name tag (2.33 x 3.375)
